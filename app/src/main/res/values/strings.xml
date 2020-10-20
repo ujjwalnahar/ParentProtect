@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Parent_Protect_prototype</string>
+    <string name="todo">TODO</string>
+
+    <string name="steps">Steps</string>
+    <string name="_5400">5400</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_in">Sign in</string>
+    <string name="alexa_stepson">Alexa Stepson</string>
+    <string name="_072">072</string>
+    <string name="body_temperature">Body Temperature</string>
+    <string name="u2109">℉</string>
+    <string name="blood_pressure">Blood Pressure</string>
+    <string name="_097">097</string>
+
+</resources>
